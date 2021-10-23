@@ -4,14 +4,11 @@
 # Compiler Design Lab Record
 
 # Introduction
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
-| Name | Sunny Sagar|
-| ---  | --- |:---:  | :---: |
-| Roll Number |2019UGCS034R |
-| ---  | --- | :---:  | :---: |
-| Subject Code | CS 324 |
-| ---  | --- | :---:  | :---: |
-| Faculty | Prof. Bhaskar Mondal |
 
 
 # Lab Work
