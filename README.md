@@ -6,7 +6,7 @@
 # Introduction
 This is sunny sagar(Reg no. - 2019UGCS034R) and this repository contains the lab work and Assignment for the subject **Compiler Design** of the 5th semester B.tech course at [Indian Institute of Information Technology, Ranchi (IIITR)](https://iiitranchi.ac.in/).
 
-Attempt  | #1  | #2 |
----  | --- | ---| --- |
-Seconds  | 301 | 283 | 290
+| Attempt  | #1  | #2 |
+| :---:  | :---: | :---: | 
+| Seconds  | 301 | 283 | 
 
