@@ -15,7 +15,7 @@
 # Lab Work
 | Sr. No. | Description | Date | Folder |
 | :---:  | :---: | :---:  | :---: |
-| 1. | Lab 1 | 07/08/2021 |    |
+| 1. | Lab 1 | 07/08/2021 | [ Link ](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-sunnysagar/tree/main/Lab%201)   |
 | 2. | Lab 2 | 13/08/2021 |    |
 | 3. | Lab 3 | 20/08/2021 |    |
 
