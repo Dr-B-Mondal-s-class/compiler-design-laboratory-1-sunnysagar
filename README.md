@@ -5,8 +5,11 @@
 
 # Introduction
 | Name | Sunny Sagar|
+| :---:  | :---: |
 | Roll Number |2019UGCS034R |
+| :---:  | :---: |
 | Subject Code | CS 324 |
+| :---:  | :---: |
 | Faculty | Prof. Bhaskar Mondal |
 
 
