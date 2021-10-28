@@ -7,5 +7,5 @@
         Sample Output: valid URL
 
         Sample Input: https://ww.amazon
-        Sample Output: Valid URL
+        Sample Output: InValid URL
 
