@@ -22,5 +22,6 @@
 | 5. | Lab 5 | 03/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-sunnysagar/tree/main/Lab%205) |
 | 6. | Lab 6 | 10/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-sunnysagar/tree/main/Lab%206) |
 | 7. | Lab 7 | 17/09/2021 |[Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-sunnysagar/tree/main/Lab%207) |
+| 8. | Lab 8 | 24/09/2021 | [Link](https://github.com/Dr-B-Mondal-s-class/compiler-design-laboratory-1-sunnysagar/tree/main/Lab%208) |
 
 
